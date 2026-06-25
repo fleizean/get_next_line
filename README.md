@@ -1,6 +1,12 @@
-*This project has been created as part of the 42 curriculum by fleizean, eyagiz.*
-
 # get_next_line
+
+<p align="center">
+    <img src="https://img.shields.io/github/languages/count/fleizean/get_next_line?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/last-commit/fleizean/get_next_line?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/forks/fleizean/get_next_line?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/followers/fleizean?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/watchers/fleizean/get_next_line?style=for-the-badge"/>
+</p>
 
 This project aims to implement a highly useful C function, `get_next_line`, which reads a line from a file descriptor and returns it.
 
